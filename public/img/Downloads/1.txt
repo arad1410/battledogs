@@ -1,0 +1,3 @@
+Admin username:   admin
+Admin password:   bDsLt2mn@4ohpsfg
+Admin email:      admin@server.hostname.co.il
